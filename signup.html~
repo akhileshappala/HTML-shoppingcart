@@ -1,0 +1,83 @@
+<DOCTYPE HTML>
+<html>
+<head><title>OUR SHOPPING CART</title>
+</head>
+<body>
+<style>
+body {
+
+margin: 0px;
+padding: 0px;
+border: medium none;
+background-size: 640px 2048px ;
+}
+</style>
+
+<h1>OUR SHOPPING CART </h1>
+<STYLE>
+h1 {
+background-color:blue;
+color: yellow;
+text-align: center;
+font-size: 50px;
+}
+</style>
+<h3>SIGN UP NOW</h3>
+<style>
+h3 {
+color: blueviolet;
+text-align: center;
+}
+</style>
+<form>
+FIRST NAME: 
+<input type="text"><br><br><br>
+LAST NAME :
+<input type="text"><br><br><br>
+CHOOSE YOUR USER NAME :
+<input type="text"><br><br><br>
+CREATE PASSWORD:
+<input type="password"><br><br><br>
+CONFIRM PASSWORD:
+<input type="password"><br><br><br>
+DATE OF BIRTH:<BR><BR>
+
+MONTH:
+<input type="text">
+DAY:
+<input type="TEXT">
+YEAR:
+<input type="TEXT"><br><br><br>
+GENDER:
+<input type="radio">MALE
+
+<input type="radio">FEMALE
+<br><br>
+MOBILE NUMBER:
+<input type="text"><br><br>
+LOCATION:
+<input type="text"><br><br>
+PROVE THAT UR NOT A ROBOT:<br>
+<img src="/home/akhilesh/Documents/cap 2.jpeg"><br>
+<input type="text"><br><br><br>
+CURRENT E-MAIL ADDRESS:
+<input type="text" placeholder="email"><br><br>
+<input type="radio">I AGREE TO THE OUR SHOPPING CART TERMS AND CONDITIONS
+</form>
+<div class="container">
+  <button type="button" class="btn btn-primary btn-block">SUBMIT</button>
+  </div>
+  <style>
+form {
+text-align: center;
+}  
+  </style>
+  <style>
+body {
+background-image: url(/home/akhilesh/Documents/de5.jpeg);
+background-size: cover;
+background-repeat: ;
+}  
+  </style>
+</body>
+</html>
